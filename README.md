@@ -1,2 +1,2 @@
-# Angular 8-Mysql-Crud
- Application using Angular 8, Nodejs, Express and the MySQL database.
+# Angular-Mysql-Crud
+ Application using Angular 8, Express, Nodejs and the MySQL database.
